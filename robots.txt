@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danielcensoni.github.io/sitemap.xml
