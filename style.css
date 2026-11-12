@@ -100,7 +100,7 @@ footer p{max-width:620px;line-height:1.6}
 .article{width:min(740px,92%);margin:0 auto;padding:70px 0 40px}
 .article h2{font-size:1.9rem;margin:44px 0 12px}
 .article p,.article li{color:#40362f;margin-bottom:16px;font-size:1.06rem}
-.article ul{padding-left:22px;margin-bottom:16px}
+.article ul,.article ol{padding-left:22px;margin-bottom:16px}
 .article .cover{margin-bottom:40px}
 .note{margin-top:44px;padding:22px 26px;background:var(--sand);border-left:3px solid var(--cu);font-size:.9rem;color:#52463d}
 .back{display:inline-block;margin:10px 0 80px;font-size:.76rem;letter-spacing:.22em;text-transform:uppercase;border-bottom:1px solid var(--cu);padding-bottom:4px}
