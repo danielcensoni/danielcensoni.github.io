@@ -147,9 +147,7 @@ footer p{max-width:620px;line-height:1.6}
 @media(max-width:900px){.brand small.sub{font-size:.58rem}}
 
 .construction{background:var(--cu);color:#1f1a17;text-align:center;font-size:.68rem;letter-spacing:.2em;text-transform:uppercase;padding:7px 12px;font-weight:500;line-height:1.4}
-.hero{padding-top:150px}
-.page-hero{padding-top:180px}
-@media(max-width:900px){.menu{top:calc(76px + 34px)}.hero{padding-top:140px}.page-hero{padding-top:170px}.construction{font-size:.6rem;letter-spacing:.12em}}
+@media(max-width:900px){.menu{top:76px}}
 
 .cover img{object-position:top}
 .fig{margin:0 0 36px}
